@@ -26,8 +26,8 @@ The pipeline runs entirely within a Docker container. The outputs are copied to 
 ### Step 1: Clone the Repository
 Clone the project repository and navigate to the project directory:
 ```bash
-git clone https://github.com/yourusername/bd-a1.git
-cd bd-a1
+git clone https://github.com/BisH91/bd-a1-project-1.git
+cd bd-a1-project-1 
 ```
 
 ### Step 2: Build the Docker Image
