@@ -1,0 +1,1 @@
+Min length of tweet: 2

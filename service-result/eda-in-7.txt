@@ -1,0 +1,1 @@
+Median length of tweet: 86.0
